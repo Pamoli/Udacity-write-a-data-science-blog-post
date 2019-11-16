@@ -1,7 +1,7 @@
 # Udacity-write-a-data-science-blog-post
 In this project, using Python and its libraries, we will gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it, analyze it and and write a blog post about the insights <br/>
 The dataset that we will be wrangling and analyzing is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
-The technical aspects as in all the codes and datasets would be available in this github repo.
+Everything related to the technical aspects of the project, as in all the codes and datasets would be available in this github repo.
 
 # Data sources:
 This dataset has three parts.<br/>
